@@ -1,3 +1,5 @@
 # 🛡️ iMMO — Idle-MMORPG
 
-Config files for Idle-MMORPG organization
+<p align="center">
+  <img src="icon/icon.512.png" alt="iMMO Logo"/>
+</p>
